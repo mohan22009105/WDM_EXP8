@@ -1,5 +1,4 @@
-### EX8 Web Scraping On E-commerce platform using BeautifulSoup
-### DATE: 
+
 ### AIM: To perform Web Scraping on Amazon using (beautifulsoup) Python.
 ### Description: 
 <div align = "justify">
@@ -76,4 +75,12 @@ else:
 
 ### Output:
 
+<img width="1094" height="718" alt="image" src="https://github.com/user-attachments/assets/d1898b7e-434e-4d53-9b24-ab781d80e861" />
+
+<img width="784" height="497" alt="image" src="https://github.com/user-attachments/assets/a00c846d-0a61-455e-bc95-bb1114fd7f02" />
+
+
+
 ### Result:
+
+Thus, To perform Web Scraping on Amazon using (beautifulsoup) Python has been executed successfully.
